@@ -1,0 +1,83 @@
+body{
+    font-family: 'Cairo', sans-serif
+}
+
+.navbar a [alt="en-flag"]{
+    width: 35px
+}
+
+.homeSlider .bxslider li .word h2 {
+    margin: 0;
+    color: #fff;
+    padding-left: 0;
+    padding-right: 30px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid #fff;
+    font-size: 80px;
+    width: 40%;
+    line-height: 1.4;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 12px;
+    margin-right: 10%
+}
+
+.homeSlider .bx-pager {
+    position: absolute;
+    bottom: 50%;
+    right: auto;
+    left: 10%;
+    width: 60px;
+}
+
+.homeSlider .bxslider li.one{
+    background: url(../imgs/slider/slide_1.jpg) no-repeat;
+    background-size: cover
+}
+
+.homeSlider .bxslider li.two{
+    background: url(../imgs/slider/slide_2.png)  no-repeat;
+    background-size: cover
+}
+
+.homeSlider .bxslider li.three{
+    background: url(../imgs/slider/slide_3.png)  no-repeat;
+    background-size: cover
+}
+
+.deals h2 {
+    text-align: right;
+    direction: rtl
+}
+
+.deals h2 span{
+    background-color: #fff
+}
+
+.deals .single_deal .body{
+    padding-right: 10px
+}
+
+.our_gallery .heading h2 span{
+    background-color: #fff
+}
+
+.testi h2{
+    text-align: right
+}
+
+.contacts .touch h3:after {
+    right: 0;
+    bottom: -10px;
+}
+
+.testi .item-info p{
+    letter-spacing: 0
+}
+
+footer h4:after{
+    right: 0
+}
+
+footer h4{
+    letter-spacing: 0
+}
